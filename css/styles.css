@@ -58,3 +58,40 @@ ul{
   background-color: darkslategray;
   padding: 20px;
 }
+
+.footer{
+background-color: #1f1f1f;
+  color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.contact-item a {
+  color: #f0f0f0;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-item a:hover {
+  color: #ffd700;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
+
+
