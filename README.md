@@ -1,5 +1,5 @@
 # portfolio
-#### This project is a landing page to my projects portfolio, 27 Sep 2020
+#### This project is a landing page to my projects portfolio,
 #### By ** Isaac Kagwanja
 ## GitHub pages link: https://isaackag.github.io/portfolio/
 ### License
