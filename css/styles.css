@@ -2,22 +2,13 @@ body{
   background-color: black;
   color: white;
 }
-#dp{
-  border-radius: 50%;
-  width: 400px;
-  height: 400px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-#name{
+.header{
   text-align: center;
+  background-color:cadetblue;
+  padding: 80px;
 }
-.interests{
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+
+.header h1{
+  font-size: 40px;
 }
+
