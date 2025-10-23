@@ -3,4 +3,4 @@
 #### By ** Isaac Kagwanja
 ## GitHub pages link: https://isaackag.github.io/portfolio/
 ### License
-Copyright (c) 2020 Isaac Kagwanja
+Copyright (c) 2025 Isaac Kagwanja
